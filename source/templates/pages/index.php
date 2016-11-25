@@ -20,8 +20,9 @@
         Is important that you involve and contribute to generate mutual benefits.<br>
         <a href="#">Feel free to contribute.</a>
     </p>
-    <h3>Examples</h3>
+    <h3>Demos</h3>
     <p>
         <a>Login</a><br>
         <a>CRUD</a>
+    </p>
 </article>

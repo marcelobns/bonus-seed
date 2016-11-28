@@ -3,6 +3,7 @@
 /.imdone
 /vendor
 /node_modules
+/bower_components
 .env.*.php
 .env.php
 .env

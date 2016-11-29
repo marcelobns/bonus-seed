@@ -1,5 +1,4 @@
 <?php
-date_default_timezone_set('America/New_York');
 //root folders
 $res = "public";
 $src = "source";
